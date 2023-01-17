@@ -1,0 +1,11 @@
+{
+  "structure": {
+    "catalog": {
+      "base_dir": "./",
+      "map_attr": "slug"
+    }
+  },
+  "sources": [
+    "leetcode"
+  ]
+}
