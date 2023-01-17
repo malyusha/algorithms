@@ -5,6 +5,7 @@
       "map_attr": "slug"
     }
   },
+  "templates_dir": "./.templates",
   "hide_unsolved": true,
   "sources": [
     "leetcode"

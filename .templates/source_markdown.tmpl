@@ -1,0 +1,14 @@
+# {{ .Name }} problems
+{{- with .Stats }}
+{{- range groupByLevel . }}
+<details>
+	<summary>{{ title .Title }} - {{ .Stats.SolvedPercentString }}% [{{ .Stats.Solved }} / {{ .Stats.Total }}]</summary>
+{{ range $i, $p := .Stats.Problems }}
+{{inc $i}}. [{{.ID}}. {{.Title}}]({{.URL}})
+{{- if .IsSolved }}
+{{- $l := len .Solutions }} ({{ range $ix, $s := .Solutions }}[{{.Lang}}]({{.Filepath}}){{ if ne (sub $l) $ix}}, {{ end }}) {{- end }}
+{{- end -}}
+{{- end }}
+</details>
+{{- end }}
+{{- end }}
