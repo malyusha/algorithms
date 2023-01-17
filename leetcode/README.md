@@ -1,6 +1,6 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 1.13% [7 / 620]</summary>
+	<summary>Easy - 1.29% [8 / 620]</summary>
  
 1. [1. Two Sum](https://leetcode.com/problems/two-sum)
 	* [Go](two-sum/main.go) 
@@ -79,7 +79,8 @@
 71. [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) 
 72. [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
 	* [Go](first-bad-version/main.go) 
-73. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) 
+73. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
+	* [Go](move-zeroes/main.go) 
 74. [290. Word Pattern](https://leetcode.com/problems/word-pattern) 
 75. [292. Nim Game](https://leetcode.com/problems/nim-game) 
 76. [293. Flip Game](https://leetcode.com/problems/flip-game) 
