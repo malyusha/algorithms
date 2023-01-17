@@ -1,6 +1,6 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 0.48% [3 / 620]</summary>
+	<summary>Easy - 0.81% [5 / 620]</summary>
  
 1. [1. Two Sum](https://leetcode.com/problems/two-sum)
 	* [Go](two-sum/main.go) 
@@ -76,7 +76,8 @@
 69. [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) 
 70. [268. Missing Number](https://leetcode.com/problems/missing-number) 
 71. [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) 
-72. [278. First Bad Version](https://leetcode.com/problems/first-bad-version) 
+72. [278. First Bad Version](https://leetcode.com/problems/first-bad-version)
+	* [Go](first-bad-version/main.go) 
 73. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) 
 74. [290. Word Pattern](https://leetcode.com/problems/word-pattern) 
 75. [292. Nim Game](https://leetcode.com/problems/nim-game) 
@@ -189,7 +190,8 @@
 182. [782. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) 
 183. [783. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) 
 184. [789. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) 
-185. [792. Binary Search](https://leetcode.com/problems/binary-search) 
+185. [792. Binary Search](https://leetcode.com/problems/binary-search)
+	* [Go](binary-search/main.go) 
 186. [799. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) 
 187. [812. Rotate String](https://leetcode.com/problems/rotate-string) 
 188. [816. Design HashSet](https://leetcode.com/problems/design-hashset) 
