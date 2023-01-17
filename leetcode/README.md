@@ -1,6 +1,6 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 0.81% [5 / 620]</summary>
+	<summary>Easy - 1.13% [7 / 620]</summary>
  
 1. [1. Two Sum](https://leetcode.com/problems/two-sum)
 	* [Go](two-sum/main.go) 
@@ -13,7 +13,8 @@
 6. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) 
 7. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) 
 8. [27. Remove Element](https://leetcode.com/problems/remove-element) 
-9. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) 
+9. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
+	* [Go](search-insert-position/main.go) 
 10. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word) 
 11. [66. Plus One](https://leetcode.com/problems/plus-one) 
 12. [67. Add Binary](https://leetcode.com/problems/add-binary) 
@@ -236,7 +237,8 @@
 227. [1005. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) 
 228. [1013. Fibonacci Number](https://leetcode.com/problems/fibonacci-number) 
 229. [1018. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) 
-230. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) 
+230. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+	* [Go](squares-of-a-sorted-array/main.go) 
 231. [1031. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) 
 232. [1035. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) 
 233. [1039. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) 
