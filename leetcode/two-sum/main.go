@@ -1,7 +1,17 @@
 package main
 
-func main() {}
+func twoSum(nums []int, target int) []int {
+	var cached = make(map[int]int)
 
-func twoSum(nums []int, target int) [2]int {
-	return [2]int{0, 0}
+	for i := 0; i < len(nums); i++ {
+		diff := target - nums[i]
+
+		if prev, ok := cached[diff]; ok {
+			return []int{prev, i}
+		}
+
+		cached[nums[i]] = i
+	}
+
+	return []int{}
 }

@@ -1,14 +1,14 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 0.16129032258064516% [1 / 620]</summary>
+	<summary>Easy - 0.48% [3 / 620]</summary>
  
 1. [Two Sum](https://leetcode.com/problems/two-sum)
-	* [Go](two-sum/main.go)
-	* [C++](two-sum/solution.cpp)
-	* [JS](two-sum/solution.js) 
+	* [Go](two-sum/main.go) 
 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number) 
-13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer) 
-14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) 
+13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+	* [Go](roman-to-integer/main.go) 
+14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+	* [Go](longest-common-prefix/main.go) 
 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) 
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) 
@@ -627,10 +627,11 @@
 2643. [Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession)
 </details>
 <details>
-	<summary>Medium - 0% [0 / 1348]</summary>
+	<summary>Medium - 0.15% [2 / 1348]</summary>
  
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) 
-3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) 
+3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+	* [Go](longest-substring-without-repeating-characters/main.go) 
 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) 
 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) 
 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer) 
@@ -1443,7 +1444,8 @@
 1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) 
 1552. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) 
 1553. [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) 
-1554. [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) 
+1554. [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)
+	* [Go](minimum-time-to-collect-all-apples-in-a-tree/main.go) 
 1557. [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k) 
 1558. [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) 
 1561. [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence) 
