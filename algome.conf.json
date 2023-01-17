@@ -5,6 +5,7 @@
       "map_attr": "slug"
     }
   },
+  "hide_unsolved": true,
   "sources": [
     "leetcode"
   ]
