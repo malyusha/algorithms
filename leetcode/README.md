@@ -631,7 +631,7 @@
 620. [2643. Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession)
 </details>
 <details>
-	<summary>Medium - 0.15% [2 / 1348]</summary>
+	<summary>Medium - 0.22% [3 / 1348]</summary>
  
 1. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) 
 2. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
@@ -744,7 +744,8 @@
 108. [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary) 
 109. [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) 
 110. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) 
-111. [189. Rotate Array](https://leetcode.com/problems/rotate-array) 
+111. [189. Rotate Array](https://leetcode.com/problems/rotate-array)
+	* [Go](rotate-array/main.go) 
 112. [192. Word Frequency](https://leetcode.com/problems/word-frequency) 
 113. [194. Transpose File](https://leetcode.com/problems/transpose-file) 
 114. [198. House Robber](https://leetcode.com/problems/house-robber) 
