@@ -632,7 +632,7 @@
 620. [2643. Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession)
 </details>
 <details>
-	<summary>Medium - 0.22% [3 / 1348]</summary>
+	<summary>Medium - 0.30% [4 / 1348]</summary>
  
 1. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) 
 2. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
@@ -734,7 +734,8 @@
 97. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element) 
 98. [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) 
 99. [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) 
-100. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) 
+100. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+	* [Go](two-sum-ii-input-array-is-sorted/main.go) 
 101. [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) 
 102. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) 
 103. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary) 
