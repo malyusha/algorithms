@@ -12,10 +12,10 @@ func rotateRight(head *ListNode, k int) *ListNode {
 	}
 
 	// find the length
-	cur := head
+	node := head
 	length := 1
-	for cur.Next != nil {
-		cur = cur.Next
+	for node.Next != nil {
+		node = node.Next
 		length++
 	}
 
@@ -26,19 +26,13 @@ func rotateRight(head *ListNode, k int) *ListNode {
 		return head
 	}
 
-	slow, fast := head, head
-
-	for fast.Next != nil {
-		fast = fast.Next
-		if k <= 0 {
-			slow = slow.Next
-		}
-		k--
+	node.Next = head
+	node = head
+	for i := length - k - 1; i > 0; i-- {
+		node = node.Next
 	}
 
-	fast.Next = head
-	head = slow.Next
-	slow.Next = nil
+	head, node.Next = node.Next, nil
 
 	return head
 }
