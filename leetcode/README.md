@@ -19,14 +19,15 @@
 15. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) ([Go](squares-of-a-sorted-array/main.go))
 </details>
 <details>
-	<summary>Medium - 0.45% [6 / 1348]</summary>
+	<summary>Medium - 0.52% [7 / 1348]</summary>
 
 1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) ([Go](longest-substring-without-repeating-characters/main.go))
 2. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) ([Go](remove-nth-node-from-end-of-list/main.go))
-3. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) ([Go](linked-list-cycle-ii/main.go))
-4. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) ([Go](two-sum-ii-input-array-is-sorted/main.go))
-5. [189. Rotate Array](https://leetcode.com/problems/rotate-array) ([Go](rotate-array/main.go))
-6. [1554. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) ([Go](minimum-time-to-collect-all-apples-in-a-tree/main.go))
+3. [61. Rotate List](https://leetcode.com/problems/rotate-list) ([Go](rotate-list/main.go))
+4. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) ([Go](linked-list-cycle-ii/main.go))
+5. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) ([Go](two-sum-ii-input-array-is-sorted/main.go))
+6. [189. Rotate Array](https://leetcode.com/problems/rotate-array) ([Go](rotate-array/main.go))
+7. [962. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) ([Go](flip-string-to-monotone-increasing/main.go))
 </details>
 <details>
 	<summary>Hard - 0% [0 / 564]</summary>
