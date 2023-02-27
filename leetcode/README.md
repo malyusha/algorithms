@@ -1,6 +1,6 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 2.90% [18 / 620]</summary>
+	<summary>Easy - 3.06% [19 / 620]</summary>
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum) ([Go](two-sum/main.go))
 2. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) ([Go](roman-to-integer/main.go))
@@ -16,10 +16,11 @@
 12. [344. Reverse String](https://leetcode.com/problems/reverse-string) ([Go](reverse-string/main.go))
 13. [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Go](reverse-words-in-a-string-iii/main.go))
 14. [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) ([Go](maximum-average-subarray-i/main.go))
-15. [733. Flood Fill](https://leetcode.com/problems/flood-fill) ([Go](flood-fill/main.go))
-16. [792. Binary Search](https://leetcode.com/problems/binary-search) ([Go](binary-search/main.go))
-17. [908. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) ([Go](middle-of-the-linked-list/main.go))
-18. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) ([Go](squares-of-a-sorted-array/main.go))
+15. [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index) ([Go](find-pivot-index/main.go))
+16. [733. Flood Fill](https://leetcode.com/problems/flood-fill) ([Go](flood-fill/main.go))
+17. [792. Binary Search](https://leetcode.com/problems/binary-search) ([Go](binary-search/main.go))
+18. [908. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) ([Go](middle-of-the-linked-list/main.go))
+19. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) ([Go](squares-of-a-sorted-array/main.go))
 </details>
 <details>
 	<summary>Medium - 0.67% [9 / 1348]</summary>
