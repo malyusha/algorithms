@@ -1,26 +1,29 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 3.06% [19 / 620]</summary>
+	<summary>Easy - 3.55% [22 / 620]</summary>
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum) ([Go](two-sum/main.go))
 2. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) ([Go](roman-to-integer/main.go))
 3. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) ([Go](longest-common-prefix/main.go))
-4. [27. Remove Element](https://leetcode.com/problems/remove-element) ([Go](remove-element/main.go))
-5. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) ([Go](search-insert-position/main.go))
-6. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) ([Go](merge-sorted-array/main.go))
-7. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Go](valid-palindrome/main.go))
-8. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) ([Go](linked-list-cycle/main.go))
-9. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) ([Go](contains-duplicate-ii/main.go))
-10. [278. First Bad Version](https://leetcode.com/problems/first-bad-version) ([Go](first-bad-version/main.go))
-11. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) ([Go](move-zeroes/main.go))
-12. [344. Reverse String](https://leetcode.com/problems/reverse-string) ([Go](reverse-string/main.go))
-13. [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Go](reverse-words-in-a-string-iii/main.go))
-14. [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) ([Go](maximum-average-subarray-i/main.go))
-15. [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index) ([Go](find-pivot-index/main.go))
-16. [733. Flood Fill](https://leetcode.com/problems/flood-fill) ([Go](flood-fill/main.go))
-17. [792. Binary Search](https://leetcode.com/problems/binary-search) ([Go](binary-search/main.go))
-18. [908. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) ([Go](middle-of-the-linked-list/main.go))
-19. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) ([Go](squares-of-a-sorted-array/main.go))
+4. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) ([Go](merge-two-sorted-lists/main.go))
+5. [27. Remove Element](https://leetcode.com/problems/remove-element) ([Go](remove-element/main.go))
+6. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) ([Go](search-insert-position/main.go))
+7. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) ([Go](merge-sorted-array/main.go))
+8. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) ([Go](valid-palindrome/main.go))
+9. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) ([Go](linked-list-cycle/main.go))
+10. [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) ([Go](isomorphic-strings/main.go))
+11. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) ([Go](contains-duplicate-ii/main.go))
+12. [278. First Bad Version](https://leetcode.com/problems/first-bad-version) ([Go](first-bad-version/main.go))
+13. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes) ([Go](move-zeroes/main.go))
+14. [344. Reverse String](https://leetcode.com/problems/reverse-string) ([Go](reverse-string/main.go))
+15. [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) ([Go](reverse-words-in-a-string-iii/main.go))
+16. [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) ([Go](maximum-average-subarray-i/main.go))
+17. [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index) ([Go](find-pivot-index/main.go))
+18. [733. Flood Fill](https://leetcode.com/problems/flood-fill) ([Go](flood-fill/main.go))
+19. [792. Binary Search](https://leetcode.com/problems/binary-search) ([Go](binary-search/main.go))
+20. [908. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) ([Go](middle-of-the-linked-list/main.go))
+21. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) ([Go](squares-of-a-sorted-array/main.go))
+22. [2102. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) ([Go](find-the-middle-index-in-array/main.go))
 </details>
 <details>
 	<summary>Medium - 0.67% [9 / 1348]</summary>
@@ -38,5 +41,5 @@
 <details>
 	<summary>Hard - 0.18% [1 / 564]</summary>
 
-1. [2667. Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray) ([Go](max-k-elements/main.go))
+1. [2667. Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray) ([Go](max-k-elements/main.go), )[Go](merge-two-2d-arrays-by-summing-values/main.go))
 </details>
