@@ -1,6 +1,6 @@
 # Leetcode problems
 <details>
-	<summary>Easy - 3.55% [22 / 620]</summary>
+	<summary>Easy - 3.81% [24 / 630]</summary>
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum) ([Go](two-sum/main.go))
 2. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) ([Go](roman-to-integer/main.go))
@@ -24,9 +24,11 @@
 20. [908. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) ([Go](middle-of-the-linked-list/main.go))
 21. [1019. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) ([Go](squares-of-a-sorted-array/main.go))
 22. [2102. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) ([Go](find-the-middle-index-in-array/main.go))
+23. [2707. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) ([Go](merge-two-2d-arrays-by-summing-values/main.go))
+24. [2714. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) ([Go](max-k-elements/main.go))
 </details>
 <details>
-	<summary>Medium - 0.67% [9 / 1348]</summary>
+	<summary>Medium - 0.66% [9 / 1372]</summary>
 
 1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) ([Go](longest-substring-without-repeating-characters/main.go))
 2. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) ([Go](remove-nth-node-from-end-of-list/main.go))
@@ -39,7 +41,6 @@
 9. [962. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) ([Go](flip-string-to-monotone-increasing/main.go))
 </details>
 <details>
-	<summary>Hard - 0.18% [1 / 564]</summary>
+	<summary>Hard - 0% [0 / 575]</summary>
 
-1. [2667. Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray) ([Go](max-k-elements/main.go), )[Go](merge-two-2d-arrays-by-summing-values/main.go))
 </details>
