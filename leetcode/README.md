@@ -30,22 +30,23 @@
 26. [2714. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) ([Go](max-k-elements/main.go), )[Go](test/main.go), )[Go](wash-time/main.go))
 </details>
 <details>
-	<summary>Medium - 1.02% [14 / 1372]</summary>
+	<summary>Medium - 1.09% [15 / 1372]</summary>
 
 1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) ([Go](longest-substring-without-repeating-characters/main.go))
 2. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) ([Go](remove-nth-node-from-end-of-list/main.go))
-3. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Go](merge-intervals/main.go))
-4. [61. Rotate List](https://leetcode.com/problems/rotate-list) ([Go](rotate-list/main.go))
-5. [86. Partition List](https://leetcode.com/problems/partition-list) ([Go](partition-list/main.go))
-6. [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) ([Go](restore-ip-addresses/main.go))
-7. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) ([Go](linked-list-cycle-ii/main.go))
-8. [146. LRU Cache](https://leetcode.com/problems/lru-cache) ([Go](lru-cache/main.go))
-9. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) ([Go](two-sum-ii-input-array-is-sorted/main.go))
-10. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary) (
-11. [189. Rotate Array](https://leetcode.com/problems/rotate-array) ([Go](rotate-array/main.go))
-12. [221. Maximal Square](https://leetcode.com/problems/maximal-square) ([Go](maximal-square/main.go))
-13. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) ([Go](top-k-frequent-elements/main.go))
-14. [962. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) ([Go](flip-string-to-monotone-increasing/main.go))
+3. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) ([Go](search-in-rotated-sorted-array/main.go))
+4. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals) ([Go](merge-intervals/main.go))
+5. [61. Rotate List](https://leetcode.com/problems/rotate-list) ([Go](rotate-list/main.go))
+6. [86. Partition List](https://leetcode.com/problems/partition-list) ([Go](partition-list/main.go))
+7. [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) ([Go](restore-ip-addresses/main.go))
+8. [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) ([Go](linked-list-cycle-ii/main.go))
+9. [146. LRU Cache](https://leetcode.com/problems/lru-cache) ([Go](lru-cache/main.go))
+10. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) ([Go](two-sum-ii-input-array-is-sorted/main.go))
+11. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary) (
+12. [189. Rotate Array](https://leetcode.com/problems/rotate-array) ([Go](rotate-array/main.go))
+13. [221. Maximal Square](https://leetcode.com/problems/maximal-square) ([Go](maximal-square/main.go))
+14. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) ([Go](top-k-frequent-elements/main.go))
+15. [962. Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) ([Go](flip-string-to-monotone-increasing/main.go))
 </details>
 <details>
 	<summary>Hard - 0% [0 / 575]</summary>
